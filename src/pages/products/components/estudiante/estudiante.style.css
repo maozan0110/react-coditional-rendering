@@ -1,0 +1,16 @@
+.estudiante-container{
+   
+    border: 2px solid grey;
+    text-align: left;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.product-without-grade{
+
+color:red;
+
+
+}   
+
+

@@ -1,0 +1,7 @@
+.Institucion-Educativa-container{
+
+    width: 200px;
+    margin: 0 ;
+    min-height: 300px;
+    border: 10px solid red;
+}
